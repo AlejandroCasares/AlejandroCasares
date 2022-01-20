@@ -3,7 +3,7 @@
 - 💼 Trabajo como Data Analysis & Data Quality en consultoría financiera 
 - 🌱 Actualmente estoy aprendiendo Python
 - 👀 Estoy interesado en la Inteligencia Artificial
-- 📫 Puedes conectarme en: alejandrocasares93@gmail.com 
+- 📫 Puedes contactarme en: alejandrocasares93@gmail.com
  
 <!---
 AlejandroCasares/AlejandroCasares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
